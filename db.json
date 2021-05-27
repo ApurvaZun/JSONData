@@ -6,6 +6,7 @@
 			"telNo": "+49 146 333 83933",
 			"email": "fhendrich@gmail.com",
 			"status": "appointment_set",
+			"image": "https://i.picsum.photos/id/550/200/300.jpg?hmac=XYJd_N4d9B5UYc7zHt9tTuzuQ4ol2byXjSGvqPAsRkI",
 			"bid": {
 				"amount": "250000",
 				"currency": "$"
